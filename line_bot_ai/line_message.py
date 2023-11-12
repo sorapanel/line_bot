@@ -13,6 +13,7 @@ HEADER = {
     'Authorization': 'Bearer ' + ACCESSTOKEN
 }
 
+apiへリクエスト送信用
 class LineMessage():
     def __init__(self, messages):
         self.messages = messages
@@ -22,6 +23,7 @@ class LineMessage():
             'replyToken': reply_token,
             'messages': self.messages
         }
+        #urlのエンコード
         req = urllib.request.Request(REPLY_ENDPOINT_URL, json.dumps(body).encode(), HEADER)
         try:
             with urllib.request.urlopen(req) as res:
