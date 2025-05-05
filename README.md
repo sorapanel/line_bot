@@ -7,3 +7,7 @@ Line Message Apiを使った文字カウントのラインボットです。
 バックエンド：Django  
 その他：Line Message Api
 # Demo:  
+## トーク履歴:  
+![image](https://github.com/sorapanel/line_bot/issues/1#issue-3040157908)
+## QRコード:  
+![image](https://github.com/sorapanel/line_bot/issues/2#issue-3040159247)
