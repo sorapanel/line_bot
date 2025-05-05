@@ -8,6 +8,6 @@ Line Message Apiを使った文字カウントのラインボットです。
 その他：Line Message Api
 # Demo:  
 ## トーク履歴:  
-![image](https://github.com/sorapanel/line_bot/issues/1#issue-3040157908)
+![Image](https://github.com/user-attachments/assets/a69cbb13-6f66-4091-ae9b-2a2d539c0902)
 ## QRコード:  
-![image](https://github.com/sorapanel/line_bot/issues/2#issue-3040159247)
+![Image](https://github.com/user-attachments/assets/de368c94-4e71-4198-8b7e-dfe598c33611)
